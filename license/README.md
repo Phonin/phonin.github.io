@@ -1,3 +1,6 @@
+## Phonin/Licenses
+The "Root" License (shown below) is the license used wherever no other license is specified within Phonin, and it's terms apply to all Phonin repositories, unless otherwise specified in a LICENSE file
+
 ### GNU AFFERO GENERAL PUBLIC LICENSE
 
 Version 3, 19 November 2007
