@@ -2,7 +2,7 @@
 
 Hi, Welcome to Phonin's Github Pages thingy.
 
-## Sub-Pages:
+## Sub-Pages
 
 - [License](https://phonin.github.io/license/) > An Explanation of Licensing in Phonin, aswell as the "Root" License used wherever no license is specified<br/>
   -> [AGPL](https://phonin.github.io/license/AGPL/) > The Affero GNU Public License<br/>
