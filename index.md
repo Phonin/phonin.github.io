@@ -12,6 +12,6 @@ Hi, Welcome to Phonin's Github Pages thingy.
 
 ## Repositories
 
-- [Branding](https://phonin.github.io/branding/) > A description of Branding within Phonin
-- [Browser](https://phonin.github.io/browser/) > The actual browser
-- [Components](https://phonin.github.io/components/) > Preact Components used in the Browser (Soon)
+- [Branding](https://phonin.github.io/Branding/) > A description of Branding within Phonin
+- [Browser](https://phonin.github.io/Browser/) > The actual browser
+- [Components](https://phonin.github.io/Components/) > Preact Components used in the Browser (Soon)
