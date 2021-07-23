@@ -1,8 +1,8 @@
 # [![Phonin](https://phonin.github.io/Branding/icons/phonin.svg)](https://phonin.github.io/Browser/)
 
-(Github Pages)
+A browser you can disguise as a password manager or 2FA Application, as to prevent censorship from people such as your parents, or your workplace, or whoever you don't want to know your Browsing Activities.
 
-Hi, Welcome to Phonin's Github Pages thingy.
+See [This](https://phonin.github.io/Browser/) for more information
 
 ## Sub-Pages
 
